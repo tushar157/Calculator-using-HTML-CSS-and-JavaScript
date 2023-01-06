@@ -1,0 +1,37 @@
+.text-center {
+    text-align: center;
+}
+
+.bg-red {
+    background: red;
+}
+
+.mx-auto {
+    margin: auto;
+}
+
+/* .m-w-20{
+    max-width: 30vw;
+  } */
+
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    margin: 0 3px;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+}
+
+.row {
+    margin: 5px 0;
+}
